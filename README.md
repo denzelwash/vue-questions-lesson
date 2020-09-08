@@ -1,4 +1,4 @@
-# my-lesson
+# vue-questions-lesson
 
 ## Project setup
 ```
